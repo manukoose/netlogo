@@ -1,3 +1,5 @@
+Access-Control-Allow-Origin: https://netlogoweb.org
+
 breed [ chlorides chloride]
 breed [ moistures moisture]
 
